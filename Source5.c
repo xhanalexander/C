@@ -6,9 +6,9 @@
 int main() {
 	SetConsoleTitle(TEXT("Praktikum Algoritma Program II"));
 
-	printf("\n\n(O)\t Nama \t\t: Alexander Achmad Khan \n");
-	printf("(O)\t NIM/NPM \t: 120103048 \n");
-	printf("(O)\t Jurusan \t: Teknik Informatika \n");
+	printf("\n\n(O)\t Nama \t\t: ... \n");
+	printf("(O)\t NIM/NPM \t: ... \n");
+	printf("(O)\t Jurusan \t: Ilmu Komputer \n");
 	printf("(O)\t Kelas \t\t: Algoritma Pemrograman II \n\n");
 	printf("================================================= \n\n");
 
