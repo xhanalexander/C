@@ -6,14 +6,14 @@
 int main() {
 	SetConsoleTitle(TEXT("Praktikum Algoritma Program II"));
 
-	printf("\n\n(O)\t Nama \t\t: Alexander Achmad Khan \n");
-	printf("(O)\t NIM/NPM \t: 120103048 \n");
-	printf("(O)\t Jurusan \t: Teknik Informatika \n");
+	printf("\n\n(O)\t Nama \t\t: ... \n");
+	printf("(O)\t NIM/NPM \t: ... \n");
+	printf("(O)\t Jurusan \t: Ilmu Komputer \n");
 	printf("(O)\t Kelas \t\t: Algoritma Pemrograman II \n\n");
 	printf("================================================= \n\n");
 
 	/*
-	Jika variable flag sama dengan 1 atau variable letter bukan ‘X’, 
+	Jika variable flag sama dengan 1 atau variable letter bukan â€˜Xâ€™, 
 	maka assign nilai = 0 kepada variable exit_flag, jika tidak, 
 	maka set exit_flag sama dengan 1.
 	*/
